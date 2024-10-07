@@ -1,14 +1,11 @@
 # Hello, I'm Rohit Kumar
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://www.linkedin.com/in/rohit-kumar-thota-59a853329/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated Cyber Security Engineer with over seven years of experience in implementing and managing secure network architectures, leveraging tools like Palo Alto Networks, Cisco Stealthwatch, FortiGate, and Meraki firewalls. My expertise spans security frameworks such as MITRE ATT&CK, AWS WAF, and Akamai Web Application Firewall, enabling efficient threat detection and response. I have successfully deployed security solutions across various industries, integrating tools like Bitbucket, JIRA, and Confluence to streamline processes. With a deep understanding of compliance standards like SOX, PCI, and NIST, I am committed to safeguarding systems against modern cyber threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a highly experienced Cyber Security Engineer with over 7 years of expertise in implementing and securing enterprise-level networks, I aim to leverage my proficiency in advanced security tools, frameworks, and methodologies to safeguard critical infrastructure against evolving cyber threats. I specialize in designing secure network architectures, managing firewall policies across platforms like Palo Alto Networks and FortiGate, and deploying robust security solutions like Cisco Stealthwatch and AWS WAF. My deep understanding of compliance requirements such as SOX, PCI, NIST, and ISO standards enables me to align security strategies with regulatory demands. I am driven to enhance cybersecurity postures through vulnerability management, risk assessment, and incident response, ensuring organizations remain resilient in today’s threat landscape.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
