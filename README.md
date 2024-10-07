@@ -1,5 +1,4 @@
 # Hello, I'm Rohit Kumar
-<a href="https://linkedin.com"><img src="https://www.linkedin.com/in/rohit-kumar-thota-59a853329/?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a dedicated Cyber Security Engineer with over seven years of experience in implementing and managing secure network architectures, leveraging tools like Palo Alto Networks, Cisco Stealthwatch, FortiGate, and Meraki firewalls. My expertise spans security frameworks such as MITRE ATT&CK, AWS WAF, and Akamai Web Application Firewall, enabling efficient threat detection and response. I have successfully deployed security solutions across various industries, integrating tools like Bitbucket, JIRA, and Confluence to streamline processes. With a deep understanding of compliance standards like SOX, PCI, and NIST, I am committed to safeguarding systems against modern cyber threats.
 
@@ -67,3 +66,7 @@ Nessus, Nmap, Nexpose, Wireshark, OWASP
 #### Role:- Security Engineer
 #### Responsibilities:- 
   I worked extensively with Carbon Black technologies for asset management, security operations, incident response, threat hunting, and vulnerability management. I developed and implemented cybersecurity standards based on NIST frameworks, conducted risk assessments using methodologies like NIST SP 800-30, and enhanced SIEM use cases for improved threat detection. Additionally, I performed APT threat modeling, ethical hacking, and penetration testing on external-facing web applications, addressing security areas such as DMZ architecture and OWASP standards. My experience includes managing data loss prevention, assessing third-party risks, configuring and troubleshooting next-gen firewalls, and ensuring compliance with regulations such as PII, GDPR, HIPAA, and PCI-DSS. I also supported advanced persistent threat detection and response and administered McAfee EPO and DLP solutions.
+
+## Contact
+### Phone:- +14372550129
+### Email:- rohitkumarthota2@gmail.com
