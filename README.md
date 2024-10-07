@@ -49,10 +49,18 @@ Nessus, Nmap, Nexpose, Wireshark, OWASP
 
 
 ## Certifications
-
 <div>
 <img src="https://img.shields.io/badge/-CCSP-007ACC?style=for-the-badge&logo=Certified%20Cloud%20Security%20Professional&logoColor=white" />
 </div>
+
+## Education
+  B.Tech in Computer Science, Balaji Institute Of Technology and Science, Warangal, Telangana, India(2011-2015)
+
+## Experience
+### Company:- Avanade, Vancouver, BC (March 2022- Present)
+### Role:- Sr. Cyber Security Engineer
+### Responsibilities:- 
+        I served as the subject matter expert in cybersecurity risk management and governance, providing technical expertise to clients and integrating cyber disciplines like assurance and risk management. I managed user accounts and RBAC in AzureAD and configured advanced security features in Meraki firewalls, such as VPNs and IPS. Skilled in deploying and administering FortiGate appliances and PaloAltoNetworks solutions, I designed secure network architectures, implemented cloud security controls like CIS benchmarks and NIST 800-53, and optimized Akamai's CDN. I leveraged tools like PowerShell, Stealthwatch, Nessus, Nexpose, and Sumologic for threat detection, vulnerability scanning, and security improvements. Additionally, I supported agile methodologies with JIRA and worked closely with compliance teams to maintain security documentation and regulatory compliance while leading incident response and policy development efforts.
 
 ## Projects
 - Detection Lab
